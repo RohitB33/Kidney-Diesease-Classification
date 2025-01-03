@@ -15,5 +15,5 @@ types-PyYAML
 scipy
 Flask
 Flask-Cors
-gdown
+gdown==5.2.0
 -e .
